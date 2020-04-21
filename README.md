@@ -1,5 +1,5 @@
-<img align="left" src="https://github.com/rainmankim/SAP_automation/blob/master/images/SAP_logo.png" width="150" height="80" alt="SAP image">
-<img align="right" src="https://github.com/rainmankim/SAP_automation/blob/master/images/python_logo.png" width="150" height="80" alt="SAP image">
+<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/SAP_logo.png" width="150" height="80" alt="SAP image">
+<img align="right" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/python_logo.png" width="150" height="80" alt="SAP image">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
 ## SAP-Excel Automation using Python
@@ -16,13 +16,13 @@ I am keeping things simple here to avoid confusion
 
 ## Before starting, I recommend that you prepare two things
 ### (1) Ensure your scripting is enabled on your SAP.
-<img align="center" src="https://github.com/rainmankim/SAP_automation/blob/master/images/scripting_pic.png" alt="SAP image">
+<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/scripting_pic.png" alt="SAP image">
 
 #### You might need to request your IT department to allow this.
 ### (2) Download Stefan Schnell's SAP Script Recorder.
 #### SAP has a built-in recorder. But if you use that you will need to change the syntax to be used in Python.
 #### Using Stefan's Recorder generates Python-friendly syntax along with many other powerful features.
-<img align="center" src="https://github.com/rainmankim/SAP_automation/blob/master/images/tracker.gif" alt="Tracker image">
+<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/tracker.gif" alt="Tracker image">
 https://tracker.stschnell.de/
 
 
@@ -30,13 +30,13 @@ https://tracker.stschnell.de/
 ## Next, open any Python IDE/code editor. 
 ## I recommend Jupyter Notebook so that you can slice data in-action.
 ### Below is an example of recorded scripts which are modified to suit my needs (*for loops + various conditions)
-<img align="left" src="https://github.com/rainmankim/SAP_automation/blob/master/images/jupyter_snapshot.PNG"  alt="Jupyter image">
+<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot.PNG"  alt="Jupyter image">
 
 
 ## I have two main functions in my file — def sap_automate()  and def enter_data()
 ### sap_automate(df) is the main function that will establish connection/session and automate log-in
 ### enter_data(session,df) is a nested function that will execute actions within SAP
-<img align="left" src="https://github.com/rainmankim/SAP_automation/blob/master/images/jupyter_snapshot_main.PNG"  alt="Jupyter image">
+<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot_main.PNG"  alt="Jupyter image">
 
 
 
