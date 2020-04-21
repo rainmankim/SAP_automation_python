@@ -13,7 +13,8 @@ If you can do that, you can easily figure out the rest, using Stefan's recorder.
 I am keeping things simple here to avoid confusion
 
 In this use-case, I am not using PyAutoGui or OpenCV.
-Those things can be used but Stefan's recorder is much faster in automating SAP-related jobs.
+Those things can be used by all means.
+But Stefan's recorder shortens development time for SAP automation.
 ```
 
 
