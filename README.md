@@ -43,6 +43,9 @@ https://tracker.stschnell.de/
 <img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot_main.PNG"  alt="Jupyter image">
 
 
+## Dealing with Excel
+### If you are writing to an existing excel, Pandas library would be not be enough
+### Use Excel modules such as xlwings or xlsxwriter
 
 ## Credits
 ```
