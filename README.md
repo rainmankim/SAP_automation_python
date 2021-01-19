@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/SAP_logo.png" width="150" height="80" alt="SAP image">
+<img align="left" src="https://raw.githubusercontent.com/rainmankim/SAP_automation_python/master/images/SAP_logo.png" width="150" height="80" alt="SAP image">
 <img align="right" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/python_logo.png" width="150" height="80" alt="SAP image">
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 
