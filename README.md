@@ -14,7 +14,7 @@ I am keeping things simple here to avoid confusion
 
 In this use-case, I am not using PyAutoGui or OpenCV.
 Those things can be used by all means.
-But Stefan's recorder shortens development time for SAP automation.
+But Stefan's recorder shortens development time for SAP automation at zero cost.
 ```
 
 
