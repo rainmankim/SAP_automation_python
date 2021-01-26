@@ -6,7 +6,7 @@
 ```
 Hi,  my name is Ray Kim. I am here to share my experience in SAP automation. 
 I am the furtherest thing from an expert but I hope my codes can help you.
-You can contact me at rainmankim@gmail.com for further assistance.
+You can contact me at rainmankim@gmail.com for further details.
 
 This repository will explain how you can automate SAP log-in and execute T-code.
 If you can do that, you can easily figure out the rest, using Stefan's recorder.
