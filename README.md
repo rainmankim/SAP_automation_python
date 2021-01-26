@@ -34,7 +34,7 @@ https://tracker.stschnell.de/
 ## Next, open any Python IDE/code editor. 
 ## I recommend Jupyter Notebook so that you can slice data in-action.
 ### Below is an example of recorded scripts which are modified to suit my needs (*for loops + various conditions)
-<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot.PNG"  alt="Jupyter image">
+<img align="left" src="https://user-images.githubusercontent.com/62319355/105824896-e9446080-5ff9-11eb-99ee-a6dee9965f80.png"  alt="Jupyter image">
 
 
 ## I have two main functions in my file — def sap_automate()  and def enter_data()
