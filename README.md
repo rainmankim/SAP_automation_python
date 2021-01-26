@@ -20,7 +20,7 @@ But Stefan's recorder shortens development time for SAP automation at zero cost.
 
 ## Before starting, I recommend that you prepare two things
 ### (1) Ensure your scripting is enabled on your SAP.
-<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/scripting_pic.png" alt="SAP image">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105824646-99659980-5ff9-11eb-9dcb-3cdbd9a4efbf.png" alt="SAP image">
 
 #### You might need to request your IT department to allow this.
 ### (2) Download Stefan Schnell's SAP Script Recorder.
