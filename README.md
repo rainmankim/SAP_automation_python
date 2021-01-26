@@ -40,7 +40,7 @@ https://tracker.stschnell.de/
 ## I have two main functions in my file — def sap_automate()  and def enter_data()
 ### sap_automate(df) is the main function that will establish connection/session and automate log-in
 ### enter_data(session,df) is a nested function that will execute actions within SAP
-<img align="left" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/jupyter_snapshot_main.PNG"  alt="Jupyter image">
+<img align="left" src="https://user-images.githubusercontent.com/62319355/105825093-26a8ee00-5ffa-11eb-8dab-626fc0b86062.png"  alt="Jupyter image">
 
 
 ## Dealing with Excel
