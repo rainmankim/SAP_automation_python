@@ -26,7 +26,7 @@ But Stefan's recorder shortens development time for SAP automation at zero cost.
 ### (2) Download Stefan Schnell's SAP Script Recorder.
 #### SAP has a built-in recorder. But if you use that you will need to change the syntax to be used in Python.
 #### Using Stefan's Recorder generates Python-friendly syntax along with many other powerful features.
-<img align="center" src="https://github.com/rainmankim/SAP_automation_python/blob/master/images/tracker.gif" alt="Tracker image">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/105824768-c3b75700-5ff9-11eb-881c-f25490c59efd.gif" alt="Tracker image">
 https://tracker.stschnell.de/
 
 
